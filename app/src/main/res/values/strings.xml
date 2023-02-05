@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlayerLine</string>
+
+    <string name="tab_all_news">ALL NEWS</string>
+    <string name="tab_following">FOLLOWING</string>
+    <string name="tab_resource_center">RESOURCE CENTER</string>
+
+    <string-array name="array_name">
+        <item>NFL</item>
+    </string-array>
+</resources>
